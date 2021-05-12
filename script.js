@@ -29,7 +29,7 @@ function show () {
   document.getElementById('text').style.display = 'block'
 }
 
-// This button changes the backgroun
+// This button changes the background
 function background () {
   document.body.style.backgroundColor = '#0d1426'
 }
